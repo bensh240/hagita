@@ -11,7 +11,7 @@ const workshopImages: Record<string, string> = {
   'עוגות': 'https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&q=80&auto=format',
   'סדנאות בקבוצות': 'https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=800&q=80&auto=format',
   'קיטו': 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800&q=80&auto=format',
-  'אוכל לפטיני': 'https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&q=80&auto=format',
+  'אוכל לפטיני': 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80&auto=format',
 };
 
 export default function WorkshopsSection() {

@@ -1,0 +1,5 @@
+- [Ben - project owner](user_ben.md) — Expects agency-level premium quality, iterates fast
+- [Hagita project details](project_hagita.md) — Client info, workshops, contact details, deployment URLs
+- [Premium dark design](feedback_premium_design.md) — Dark theme only, no light/amateurish elements
+- [No childish 3D](feedback_no_childish_3d.md) — Never use procedural geometry for food
+- [Deployment workflow](reference_deploy.md) — Build, deploy to Vercel, push to GitHub
